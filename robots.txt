@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marcabeles.github.io/al-folio/sitemap.xml
+Sitemap: https://marcabeles.github.io/sitemap.xml
