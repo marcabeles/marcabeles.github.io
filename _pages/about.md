@@ -20,6 +20,8 @@ Sociales, directeur de recherche émérite au CNRS. Il a dirigé le Laboratoire 
 des Institutions et des Organisations Sociales (LAIOS-CNRS), l’Institut Interdisciplinaire
 d’Anthropologie du Contemporain (IIAC-CNRS-EHESS) et le Centre Franco-Argentin des
 Hautes Etudes de l’Université de Buenos Aires.
+
+
 Il a d’abord étudié les pratiques politiques dans une société d’Ethiopie méridionale, puis a
 développé l’anthropologie du politique et des institutions dans les contextes français et
 européen à partir de plusieurs questions abordées en Afrique, à propos des pratiques
@@ -28,7 +30,10 @@ d’élection, au Parlement européen et à l’Assemblée nationale. Marc Abél
 nouveaux terrains de recherche sur les nouveaux pouvoirs et contre-pouvoirs dans le contexte
 de la mondialisation, menant une réflexion critique sur le concept d’Etat qui fait écho à ses
 recherches sur le global-politique. Ses investigations ont aussi porté sur la Silicon Valley, où
-il s’est intéressé aux créateurs de start-up et adeptes de la philanthropie. Dans le prolongement
+il s’est intéressé aux créateurs de start-up et adeptes de la philanthropie. 
+
+
+Dans le prolongement
 des travaux qu’il avait consacrés à des organisations transnationales gouvernementales
 comme la Commission Européenne et non gouvernementales comme l’ONG Oxfam, il a
 conçu et dirigé un programme international de recherche sur l’Organisation mondiale du
@@ -36,6 +41,8 @@ commerce. Parallèlement, à travers l’ethnographie d’un lieu d’art chinoi
 analysé l’entrecroisement entre global et local, les jeux d’échelle auxquels se livrent les
 protagonistes d’un marché de l’art en pleine expansion. Ces dernières années, il s’est intéressé
 à la mondialisation de l’industrie du luxe et du marché de l’art contemporain.
+
+
 Marc Abélès est l’auteur d’une trentaine d’ouvrages, parmi lesquels : Le lieu du politique
 (1983) Jours tranquilles en 89. Ethnologie politique d’un département français (Odile Jacob,
 1989) Anthropologie de l’Etat (Armand Colin, 1990), La vie quotidienne au Parlement
